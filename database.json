@@ -1,0 +1,68 @@
+{
+    "varun": [
+        {
+            "type": "square root of number",
+            "time_to_ans": 9.633282,
+            "output": "wrong",
+            "num": 7744,
+            "user_input": 455,
+            "cur_score": -5
+        },
+        {
+            "type": "square root of number",
+            "time_to_ans": 5.405038,
+            "output": "wrong",
+            "num": 6084,
+            "user_input": 31,
+            "cur_score": -10
+        },
+        {
+            "type": "square root of number",
+            "time_to_ans": 3.849879,
+            "output": "correct",
+            "num": 36,
+            "user_input": 6,
+            "cur_score": 0
+        },
+        {
+            "type": "square root of number",
+            "time_to_ans": 5.068101,
+            "output": "wrong",
+            "num": 441,
+            "user_input": 43,
+            "cur_score": -5
+        },
+        {
+            "type": "square root of number",
+            "time_to_ans": 1.916309,
+            "output": "wrong",
+            "num": 7921,
+            "user_input": 423,
+            "cur_score": -10
+        },
+        {
+            "type": "square root of number",
+            "time_to_ans": 2.290868,
+            "output": "wrong",
+            "num": 8100,
+            "user_input": 53,
+            "cur_score": -15
+        },
+        {
+            "type": "square root of number",
+            "time_to_ans": 1.776781,
+            "output": "wrong",
+            "num": 4356,
+            "user_input": 53,
+            "cur_score": -20
+        },
+        {
+            "type": "square of number",
+            "time_to_ans": 3.33508,
+            "output": "wrong",
+            "num": 93,
+            "user_input": 45,
+            "cur_score": -25
+        }
+    ]
+}
